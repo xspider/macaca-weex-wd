@@ -1,0 +1,32 @@
+{
+  "name": "macaca-weex-wd",
+  "version": "1.0.0",
+  "description": "macaca wd for weex",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xspider/macaca-weex-wd.git"
+  },
+  "keywords": [
+    "macaca",
+    "wd",
+    "weex"
+  ],
+  "author": "黄巢 <xspider.org@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.3",
+    "macaca-wd": "^1.0.14"
+  },
+  "devDependencies": {
+    "macaca-cli": "^1.1.0",
+    "mocha": "^3.2.0",
+    "should": "^11.1.2"
+  }
+}
